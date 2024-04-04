@@ -1,0 +1,22 @@
+.link-tag {
+  text-decoration: none;
+}
+
+.list-items {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin: 20px;
+  min-width: 100px;
+  padding: 5px 15px 5px 15px;
+}
+
+.logo-element {
+  margin-right: 15px;
+}
+
+.logo-name {
+  font-weight: 600;
+  color: #1e293b;
+}
